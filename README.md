@@ -1,2 +1,2 @@
-# Anushka-Juneja-demo
+# Anushka Juneja-demo
 This is my first Git Repositary.
